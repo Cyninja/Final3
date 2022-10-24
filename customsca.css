@@ -1,0 +1,7 @@
+div.container-fluid{height: 40px; 
+    background-color: rgb(255, 140, 0);
+border: solid rgb(0, 255, 0) 10em; 
+width: 20px;} 
+.row{background-color: bisque;
+width: 20px;} 
+body{background: rgb(255, 64, 0);}
